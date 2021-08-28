@@ -1,3 +1,8 @@
+<!--
+https://emojipedia.org/
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
+
 ### Olá! Bem-vindo ao meu perfil
 
 <h3 align="left">Full Stack Developer</h3>
@@ -34,7 +39,7 @@
   </span>
 </div>
  
-<h4 align="left">📚 Database</h3> 
+<h4 align="left">📗 Database</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -45,7 +50,7 @@
   </span>
 </div>  
  
-<h4 align="left">📗 Infra</h3> 
+<h4 align="left">🖥️ Infra</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -71,7 +76,7 @@
   </span>
 </div>    
  
-<h4 align="left">🎓 Estudando</h3> 
+<h4 align="left">🎓 Estudando 📚</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -85,10 +90,13 @@
 <h4 align="left">🚀 Estão no Radar</h3> 
 <div align="left">
   <span>
+    <img src="https://img.shields.io/badge/RabbitMQ-e34c26?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Kafka-20232A?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=20232A"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   </span>
 </div>
 
@@ -104,3 +112,5 @@
 </div>
 
 </br>
+
+
