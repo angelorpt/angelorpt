@@ -9,8 +9,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelorpt&layout=compact&theme=tokyonight)](https://github.com/angelorpt/github-readme-stats)
   
 </div>
- 
-<h4 align="left">Front-End</h3> 
+
+
+<h4 align="left">📙 Front-End</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,7 +25,7 @@
   </span>
 </div>
  
-<h4 align="left">Back-End</h3> 
+<h4 align="left">📘 Back-End</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -33,7 +34,7 @@
   </span>
 </div>
  
-<h4 align="left">Database</h3> 
+<h4 align="left">📚 Database</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -44,32 +45,33 @@
   </span>
 </div>  
  
-<h4 align="left">Infra</h3> 
+<h4 align="left">📗 Infra</h3> 
 <div align="left">
   <span>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </span>
 </div>
 
-<h4 align="left">Plataforma</h3> 
+<h4 align="left">🛡️ Plataforma</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </span>
 </div>
 
-<h4 align="left">Tenho uma noção</h3> 
+<h4 align="left">📕 Conheço um pouco</h3> 
 <div align="left">
   <span>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </span>
 </div>    
  
-<h4 align="left">Learning</h3> 
+<h4 align="left">🎓 Estudando</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -80,7 +82,7 @@
 </div>
 
 
-<h4 align="left">Estão no Radar</h3> 
+<h4 align="left">🚀 Estão no Radar</h3> 
 <div align="left">
   <span>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -89,8 +91,6 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </span>
 </div>
-
-
 
  
 </br>
