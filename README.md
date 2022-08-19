@@ -41,11 +41,13 @@ https://dev.to/envoy_/150-badges-for-github-pnk
     <img class="badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img class="badge" src="https://img.shields.io/badge/Quasar-1976d2?style=for-the-badge&logo=quasar&logoColor=white"/>
     <img class="badge" src="https://img.shields.io/badge/Vuetify-29B6F6?style=for-the-badge&logo=vuetify&logoColor=white"/>
+    <img class="badge" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
   </div>
   <div class="column">
     <img class="badge" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img class="badge" src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img class="badge" src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img class="badge" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img class="badge" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img class="badge" src="https://img.shields.io/badge/Materialize CSS-CC6699?style=for-the-badge&logo=materializecss&logoColor=white"/>
   </div>
