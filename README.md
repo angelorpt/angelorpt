@@ -2,24 +2,6 @@
 https://emojipedia.org/
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-<style type="text/css">
-  .badge {
-    height: 32px;
-  }
-  .wrapper {
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-    justify-content: flex-start;
-  }
-  .column {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: flex-start;
-  }
-</style>
 
 ### Olá! Bem-vindo ao meu perfil
 
