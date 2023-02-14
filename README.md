@@ -115,7 +115,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <div align="left">
   <h3 align="left">Connect with me:</h3>
 
-  <a href="https://www.linkedin.com/in/angelorpt/" align="center">
+  <a href="https://www.linkedin.com/in/angelorafaeldev/" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
