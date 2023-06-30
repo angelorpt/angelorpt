@@ -18,6 +18,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <h4 align="left">📙 Front-End</h3>
 <div align="left" class="wrapper">
   <div class="column">
+    <img class="badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img class="badge" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
     <img class="badge" src="https://img.shields.io/badge/VueX-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
     <img class="badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -38,6 +39,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <h4 align="left">📘 Back-End</h3>
 <div align="left">
   <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white"/>
   </div>
