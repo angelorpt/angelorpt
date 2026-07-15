@@ -15,7 +15,7 @@
 
   <p>
     Crio interfaces modernas, componentizadas e alinhadas a Design Systems,<br/>
-    conectando o Front-end a APIs REST, WebSocket, EventStream e serviços cloud.
+    conectando o Front-end a APIs REST, WebSocket, EventStream.
   </p>
 
   <p>
